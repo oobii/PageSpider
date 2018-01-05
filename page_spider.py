@@ -3,8 +3,6 @@ import argparse
 from utilities import url_utilities
 
 
-# Cmd-D to duplicate the line
-
 def main(database: str, url_list_file: str):
     big_word_list = []
     print("we are going to work with " + database)
