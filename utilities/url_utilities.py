@@ -1,7 +1,6 @@
 import string
-from urllib.request import urlopen
-
 import re
+from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
 
